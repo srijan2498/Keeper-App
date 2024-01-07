@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&family=Zen+Dots&display=swap');
+
+.header {
+   width: 100%;
+   display: flex;
+   padding: 1rem;
+   background: rgb(32, 0, 91);
+   justify-content: center;
+   font-family: 'Texturina', serif;
+   box-shadow: rgba(0, 0, 0, 0.5) 0px 5px 10px;
+}
+
+.heading {
+   color: #fff;
+   padding: 1rem;
+   background-color: rgb(9, 19, 110);
+   text-align: center;
+   letter-spacing: 2px;
+   font-family: 'La Belle Aurore', cursive;
+   font-family: 'Zen Dots', cursive;
+   cursor: default;
+}
